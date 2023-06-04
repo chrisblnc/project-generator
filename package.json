@@ -1,0 +1,27 @@
+{
+  "name": "project-generator",
+  "version": "0.0.1",
+  "description": "Automated PHP project creation with MySQL support. ",
+  "main": "index.js",
+  "scripts": {
+    "pg": "node project_generator.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisblnc/project-generator.git"
+  },
+  "keywords": [
+    "script",
+    "php",
+    "mysql",
+    "node",
+    "js"
+  ],
+  "author": "chrisblnc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisblnc/project-generator/issues"
+  },
+  "homepage": "https://github.com/chrisblnc/project-generator#readme"
+}
